@@ -5,19 +5,12 @@
 </p>
 
 <p align="center">
-
-![Excel](https://img.shields.io/badge/Excel-Initial%20Data%20Inspection-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data%20Processing-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![DAX](https://img.shields.io/badge/DAX-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
+  <img src="https://img.shields.io/badge/Excel-Initial%20Data%20Inspection-217346?style=flat-square&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-Data%20Processing-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-Data%20Analysis-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20Query-Data%20Transformation-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/DAX-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black">
 </p>
 
 ---
