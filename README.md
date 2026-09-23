@@ -788,11 +788,17 @@ The result is a structured and interactive customer analytics solution that demo
 
 # 👩‍💻 Author
 
-**Customer Personality Analytics**
+**Omnia Mohamed**
 
-Built as a portfolio project demonstrating practical skills in:
+**Aspiring Data Analyst | Business Intelligence Enthusiast**
 
-**SQL | PostgreSQL | Power Query | Power BI | DAX | Customer Analytics | RFM Segmentation**
+💼 [LinkedIn](https://www.linkedin.com/in/omnia26)  
+🐙 [GitHub](https://github.com/omnia-mohamed26)
 
 ---
 
+## ⭐ Support
+
+If you find this project useful or interesting, please consider giving the repository a Star ⭐.
+
+Thank you for exploring the **Customer Personality Analytics**!
